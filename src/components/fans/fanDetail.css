@@ -1,0 +1,30 @@
+h2 {
+    text-align: center;
+    padding-bottom: .5rem;
+    letter-spacing: 1px;
+    padding: .5rem;
+    line-height: 1.8rem;
+    font-size: 3rem;
+}
+
+.fanName {
+    text-align: center;
+    padding-bottom: .5rem;
+    letter-spacing: 1px;
+    padding: .5rem;
+    box-shadow:  3px 3px 3px rgba(0, 0, 0, 0.265);
+    line-height: 1.8rem;
+    font-size: 2rem;
+    
+}
+
+.fanEmail {
+    text-align: center;
+    padding-bottom: .5rem;
+    letter-spacing: 1px;
+    padding: .5rem;
+    box-shadow:  3px 3px 3px rgba(0, 0, 0, 0.265);
+    line-height: 1.8rem;
+    font-size: 2rem;
+
+}
