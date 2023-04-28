@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: left;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+
+}
+
+.navbar__item {
+    flex-basis: 20%;
+    list-style-type: none;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+
+}
+
+.navbar__logout {
+    margin-left: auto;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+

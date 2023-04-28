@@ -1,0 +1,52 @@
+.athletesList {
+    padding-bottom: .5rem;
+    letter-spacing: 1px;
+    padding: .5rem;
+    box-shadow:  3px 3px 3px rgba(0, 0, 0, 0.265);
+    line-height: 1.8rem;
+    margin-bottom: 7rem;
+   }
+
+.athleteFormButton {
+    background-color: #4d4d4d;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 5px #0f0f0f;
+  transition: all 0.2s ease-in-out;
+  margin-right: 4rem;
+  margin-top: 3rem;
+
+}
+
+.editFormButton {
+    background-color: #5e5e5e;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 5px #0f0f0f;
+  transition: all 0.2s ease-in-out;
+  margin-bottom: 5rem;
+
+}
+
+
+
+.athleteListHeader {
+  transform: translateX(-100%);
+  animation: slideIn 2s forwards;
+  font-size: 2.5rem;
+
+}
+
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}

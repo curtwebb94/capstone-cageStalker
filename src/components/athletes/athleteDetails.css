@@ -1,0 +1,55 @@
+img {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: .5rem;
+}
+
+.athleteDetails {
+    line-height: 2.1rem;
+    font-size: 1.2rem;
+}
+
+.athleteDetailsHeader {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+}
+
+.fanInfo {
+  display: none;
+}
+
+.stalkerAddButton {
+  background-color: #4d4d4d;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 5px #0f0f0f;
+  transition: all 0.2s ease-in-out;
+  margin-right: 4rem;
+  margin-top: 3rem;
+  overflow: hidden;
+
+}
+
+
+
+.athleteDetailsHeader {
+  transform: translateX(-100%);
+  animation: slideIn 2s forwards;
+  font-size: 2.5rem;
+
+}
+
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}
