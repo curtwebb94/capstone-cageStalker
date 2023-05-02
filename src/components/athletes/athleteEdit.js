@@ -3,6 +3,7 @@ import { useNavigate, useParams } from "react-router-dom"
 
 export const FighterEdit = () => {
     const [info, editInfo] = useState({
+        height: 0,
         weight: 0,
         division: "",
         age: "",
