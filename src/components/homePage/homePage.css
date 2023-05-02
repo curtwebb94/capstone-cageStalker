@@ -1,0 +1,33 @@
+.fighterTitle {
+text-align: center;
+transform: translateX(-100%);
+  animation: slideIn 2s forwards;
+
+}
+
+.eventTitle {
+  text-align: center;
+  transform: translateX(-100%);
+  animation: slideIn 2s forwards;
+}
+
+.eventLink {
+  color: #D2AE4D;
+  font-size: 1rem;
+  
+}
+
+footer {
+  text-align: center;
+  transform: translateX(-100%);
+  animation: slideIn 2s forwards;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0%);
+  }
+}

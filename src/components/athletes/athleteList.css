@@ -32,6 +32,19 @@
 
 }
 
+.fighterSearchButton {
+  background-color: #5e5e5e;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 5px #0f0f0f;
+  animation: wiggle 2s linear infinite;
+  margin-top: 10rem;
+  margin-bottom: 5rem;
+  margin-left: 1500px;
+}
+
 
 
 .athleteListHeader {
@@ -50,3 +63,29 @@
     transform: translateX(0%);
   }
 }
+
+/* Keyframes */
+@keyframes wiggle {
+  0%, 7% {
+    transform: rotateZ(0);
+  }
+  15% {
+    transform: rotateZ(-15deg);
+  }
+  20% {
+    transform: rotateZ(10deg);
+  }
+  25% {
+    transform: rotateZ(-10deg);
+  }
+  30% {
+    transform: rotateZ(6deg);
+  }
+  35% {
+    transform: rotateZ(-4deg);
+  }
+  40%, 100% {
+    transform: rotateZ(0);
+  }
+}
+

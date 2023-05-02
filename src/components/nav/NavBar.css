@@ -2,8 +2,14 @@
     display: flex;
     flex-wrap: nowrap;
     justify-content: left;
+    padding: 1.5rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    background-color:#D2AE4D;
 
+}
+
+a {
+    color: rgb(255, 255, 255);
 }
 
 .navbar__item {

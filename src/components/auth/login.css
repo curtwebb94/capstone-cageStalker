@@ -11,6 +11,8 @@ fieldset {
     padding: 1rem 0;
     margin: 0;
     border: 0;
+    position: absolute;
+    margin-left: 200px;
 }
 
 .form--login {
@@ -64,3 +66,7 @@ fieldset {
     bottom: -2rem;
 }
 
+.submitButton {
+    margin-left: 450px;
+    margin-top: 150px;
+}
