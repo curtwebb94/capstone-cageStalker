@@ -8,16 +8,6 @@ Purpose:
 
 CageStalker will allow the user to follow all of their favorite UFC stars. The user will be able to keep up with MMA fighters all in the same place and compare the data between the athletes.
 
-How does the application work?
-
-
-How was the application developed?
-
-
-How to install and run the application:
-
-
-Difficulties & challenges faced during process.
 
 
 Public link:
