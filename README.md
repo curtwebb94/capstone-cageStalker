@@ -19,6 +19,7 @@ Notable Performances: Explore the notable performances and achievements of each 
 User-Friendly Interface: Navigate the application with ease and find the information you're looking for quickly.
 
 How the Application Works
+
 CageStalker is built using a combination of front-end and back-end technologies. The front-end utilizes HTML, CSS, and JavaScript to create an intuitive and visually appealing user interface. The back-end is developed using a server-side programming language such as Node.js and a database to store and retrieve fighter data.
 
 The application fetches fighter data from reliable sources, organizes it into a structured format, and presents it to the users in an easy-to-understand manner. Users can search for specific fighters, browse through different weight classes, and access detailed profiles for each fighter. The application also allows users to compare the statistics of multiple fighters, enabling them to make informed comparisons and assessments.
