@@ -14,7 +14,7 @@ In-Depth Fighter Analysis: Gain insights into each fighter's strengths, weakness
 Notable Performances: Explore the notable performances and achievements of each fighter.
 User-Friendly Interface: Navigate the application with ease and find the information you're looking for quickly.
 How the Application Works
-CageStalker is built using a combination of front-end and back-end technologies. The front-end utilizes HTML, CSS, and JavaScript to create an intuitive and visually appealing user interface. The back-end is developed using a server-side programming language such as Python or Node.js and a database to store and retrieve fighter data.
+CageStalker is built using a combination of front-end and back-end technologies. The front-end utilizes HTML, CSS, and JavaScript to create an intuitive and visually appealing user interface. The back-end is developed using a server-side programming language such as Node.js and a database to store and retrieve fighter data.
 
 The application fetches fighter data from reliable sources, organizes it into a structured format, and presents it to the users in an easy-to-understand manner. Users can search for specific fighters, browse through different weight classes, and access detailed profiles for each fighter. The application also allows users to compare the statistics of multiple fighters, enabling them to make informed comparisons and assessments.
 
@@ -45,7 +45,6 @@ We have exciting plans to further enhance CageStalker in the future. Some of the
 
 Fighter Rankings: Introducing a ranking system based on fighter performance and achievements.
 Fight Predictions: Implementing a prediction engine to provide users with insights and predictions for upcoming fights.
-User Accounts and Personalization: Allowing users to create accounts, personalize their experience, and save their favorite fighters.
 Social Interaction: Enabling users to share fighter profiles, statistics, and analysis on social media platforms.
 Mobile Application: Developing a mobile version of CageStalker for users to access fighter information on the go.
 We hope you enjoy using CageStalker and find it a valuable resource for your MMA fandom. Feel free to provide feedback and suggestions to help us improve the application.
