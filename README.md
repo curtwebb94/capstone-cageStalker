@@ -9,10 +9,15 @@ The purpose of CageStalker is to create a centralized platform for MMA enthusias
 Features
 
 Comprehensive Fighter Database: Access detailed information and statistics on all UFC fighters.
+
 Fighter Comparison: Compare the data and statistics of different fighters side by side.
+
 In-Depth Fighter Analysis: Gain insights into each fighter's strengths, weaknesses, and fighting styles.
+
 Notable Performances: Explore the notable performances and achievements of each fighter.
+
 User-Friendly Interface: Navigate the application with ease and find the information you're looking for quickly.
+
 How the Application Works
 CageStalker is built using a combination of front-end and back-end technologies. The front-end utilizes HTML, CSS, and JavaScript to create an intuitive and visually appealing user interface. The back-end is developed using a server-side programming language such as Node.js and a database to store and retrieve fighter data.
 
